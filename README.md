@@ -7,19 +7,19 @@
 🌍 Based in Kenya
 
 ## Skills
-- Python
-- Data Analysis
-- SQL
-- Excel
-- HTML & CSS
-- Data Visualization
+ Python
+ Data Analysis
+ SQL
+ Excel
+ HTML & CSS
+ Data Visualization
 
 ## Projects
-- Iris Dataset Analysis
-- Titanic Survival Prediction
-- Student Performance Analysis
+ Iris Dataset Analysis
+ Titanic Survival Prediction
+ Student Performance Analysis
 
 ## Goals
-- Become a professional Data Scientist
-- Build impactful AI projects
-- Contribute to open source
+ Become a professional Data Scientist
+ Build impactful AI projects
+ Contribute to open source
