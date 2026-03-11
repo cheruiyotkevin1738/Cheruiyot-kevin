@@ -1,4 +1,4 @@
-# Cheruiyot-kevin
+# Cheruiyotkevin1738
 # Hi, I'm Kevin Cheruiyot 👋
 
 🎓 Data Science Student  
