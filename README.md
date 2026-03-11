@@ -7,9 +7,9 @@
 🌍 Based in Kenya
 
 ## Skills
- Python
- Data Analysis
- SQL
+ -Python
+ -Data Analysis
+ -SQL
  Excel
  HTML & CSS
  Data Visualization
