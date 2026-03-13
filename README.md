@@ -14,11 +14,6 @@
  HTML & CSS
  Data Visualization
 
-## Projects
- Iris Dataset Analysis
- Titanic Survival Prediction
- Student Performance Analysis
-
 ## Goals
  Become a professional Data Scientist
  Build impactful AI projects
