@@ -7,11 +7,11 @@
 🌍 Based in Kenya
 
 ## Skills
- -Python
- -Data Analysis
- -SQL
- Excel
- HTML & CSS
+ Python,
+ Data Analysis,
+ SQL,
+ Excel,
+ HTML, 
  Data Visualization
 
 ## Goals
