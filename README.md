@@ -1,4 +1,4 @@
-# Hi, I'm Cheruyot Kevin! 👋
+# Hi, I'm Cheruiyot Kevin! 👋
 
 ### Aspiring Data Analyst | Data Scienctist | Business Intelligence Enthusiast
 
